@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1494431318 source:c:\users\wwstudent\documents\codeblocksprojects\tictactoe\src\players.cpp
+	"Players.h"
+
+1494431318 c:\users\wwstudent\documents\codeblocksprojects\tictactoe\include\players.h
+
+1495054214 source:c:\users\wwstudent\documents\codeblocksprojects\tictactoe\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"Board.h"
+
+1495051845 source:c:\users\wwstudent\documents\codeblocksprojects\tictactoe\src\board.cpp
+	"Board.h"
+	<iostream>
+	<stdlib.h>
+
+1495051825 c:\users\wwstudent\documents\codeblocksprojects\tictactoe\include\board.h
+	<string>
+
